@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Menu,lang,listView</string>
+    <string name="hello">Hello</string>
+    <string-array name="students">
+        <item>TOAS</item>
+        <item>jam</item>
+        <item>la</item>
+        <item>Tm</item>
+
+    </string-array>
+</resources>
